@@ -6,9 +6,9 @@
 #!/bin/sh
 
 DATE=`date '+%Y.%m.%d.%H.%M'`
-DESTINATION_HOSTS="cosmoatgwebuat01.cosmote.gr cosmoatgwebuat02.cosmote.gr"
+DESTINATION_HOSTS="***** *******"
 DEST_DOC_ROOT=/var/www/uatatg.cosmote.gr
-DESTINATION_HOSTS_ADMIN_SERVERS="cosmoatgwebuat03.cosmote.gr cosmoatgwebuat04.cosmote.gr"
+DESTINATION_HOSTS_ADMIN_SERVERS="******* ******"
 DEST_DOC_ROOT_ADMIN_SERVERS=/var/www/uatatgadmin.cosmote.gr
 FOLDERS="announcements businessone_static drivers hub images img maps otegroup_company ote_static pdf sample smarthome smarthome_20170829 smarthome_20170904 smarthome_20170911 wcs_static"
 SOURCE_DOC_ROOT=/appl/Static_Content_Upload
